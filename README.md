@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaidenLarsen
 - 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning the basics to mobile development.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 🌱 I’m currently learning the fundamentals of mobile development.
+- 💞️ I’m looking to collaborate on anything at the moment.
 - 📫 How to reach me kaidenlarsen555@gmail.com
 
 <!---
