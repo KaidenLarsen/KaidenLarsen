@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaidenLarsen
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning the fundamentals of mobile development.
-- 💞️ I’m looking to collaborate on anything at the moment.
+- 👀 I’m interested in using AI to assisnt non-verbal autistic individuals with communication.
+- 💞️ I'm not looking to collaborate on anything at the moment. Perhaps in a few months!
 - 📫 How to reach me kaidenlarsen555@gmail.com
 
 <!---
